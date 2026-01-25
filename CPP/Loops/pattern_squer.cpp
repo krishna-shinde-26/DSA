@@ -27,3 +27,15 @@ for(int i  = 0 ; i <5;i++){
 
 
 }
+
+/*
+OutPut 
+ 
+[Running] cd "/home/krishna/Coding area/DSA/CPP/" && g++ loop.cpp -o loop && "/home/krishna/Coding area/DSA/CPP/"loop
+*****
+*   *
+*   *
+*   *
+*****
+
+*/
