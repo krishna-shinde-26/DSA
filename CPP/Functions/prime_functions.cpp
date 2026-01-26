@@ -23,9 +23,9 @@ cout<<"not a prime number";
 
 
 int main(){
-
-prime(1);
-
+    
+    prime(1);
+    
 
 }
 
