@@ -28,6 +28,7 @@ int main(){
 
     }
     cout<<v.size();
+    cout<<v.size();
 
 
 }
