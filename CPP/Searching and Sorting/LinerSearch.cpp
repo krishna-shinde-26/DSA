@@ -27,7 +27,7 @@ int main(){
 
     int arr[] = {1,2,3,4,5};
     int size = 5 ;
-          int target = 4;
+          int target = 1;
       int index = linerSerach(arr,size,target);
         if(index==-1){
 
